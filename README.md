@@ -4,9 +4,11 @@
 
 👉==> Objetivo:
 
-Ferramenta criada no Excel cujo o objetivo é auxiliar a população no armazenamento e agrupamento de dados imporantes para declaração de imposto de renda.
+Ferramenta criada no Excel cujo o objetivo é auxiliar a população no armazenamento e agrupamento de dados importantes para declaração de imposto de renda.
 
-O usuário pode utilizar a ferramenta tanto para enviar seus dados organizados ao profissional de contabilidade e/ou armazenar dados hisórico de suas declarações de impostos de redas epara consultas futuras.
+
+O usuário pode utilizar a ferramenta tanto para enviar seus dados organizados ao profissional de contabilidade e/ou armazenar dados hisórico de suas declarações de impostos de rendas para consultas futuras.
+
 
 👉==> Funcionalidade da ferramenta:
 
@@ -23,6 +25,8 @@ Observação:
  Essa ferramenta foi criada via desafio de prjeto proposto pela plataforma de cursos DIO.
 
  Curso de Excel com IA do Santander em parceria com a DIO. 
+
+
 
 
  Esta ferramenta passará por melhorias e aprimoramentos após cada novo conhecimento adquirido.
